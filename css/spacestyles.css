@@ -1,13 +1,22 @@
 body {
     background-color:white;
     text-decoration:none;
-    
 }
+
+p, h1 {
+    color:red;
+    font-size:10px;
+    font-family:helvetica;
+    text-decoration:none;
+    font-weight:medium;
+}
+    
+
 
 
 a { 
-    color:pink;
-font-size:30px;
+color:orange;
+font-size:10px;
 font-family:helvetica;
 text-decoration:none;
 font-weight:bold;
