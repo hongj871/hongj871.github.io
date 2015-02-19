@@ -1,0 +1,24 @@
+ <div class="thumbnails">
+                <a href="img/full/1.jpg"><img src="img/thumbs/1.jpg" alt="First" title="First image" /></a>
+                <a href="img/full/2.jpg"><img src="img/thumbs/2.jpg" alt="Second" title="Second image" /></a>
+                <a href="img/full/3.jpg"><img src="img/thumbs/3.jpg" alt="Third" title="Third image" /></a>
+                <a href="img/full/4.jpg"><img src="img/thumbs/4.jpg" alt="Fourth" title="Fourth image" /></a>
+                <a href="img/full/5.jpg"><img src="img/thumbs/5.jpg" alt="Fifth" title="Fifth image" /></a>
+                <a href="img/full/6.jpg"><img src="img/thumbs/6.jpg" alt="Six" title="Six image" /></a>
+                <a href="img/full/7.jpg"><img src="img/thumbs/7.jpg" alt="Seven" title="Seven image" /></a>
+                <a href="img/full/8.jpg"><img src="img/thumbs/8.jpg" alt="Eight" title="Eight image" /></a>
+                <a href="img/full/9.jpg"><img src="img/thumbs/9.jpg" alt="Eight" title="Eight image" /></a>
+                <a href="img/full/10.jpg"><img src="img/thumbs/10.jpg" alt="Eight" title="Eight image" /></a>
+                <a href="img/full/11.jpg"><img src="img/thumbs/11.jpg" alt="Eight" title="Eight image" /></a>
+                <a href="img/full/12.jpg"><img src="img/thumbs/12.jpg" alt="Eight" title="Eight image" /></a>
+                <a href="img/full/13.jpg"><img src="img/thumbs/13.jpg" alt="Eight" title="Eight image" /></a>
+                <a href="img/full/14.jpg"><img src="img/thumbs/14.jpg" alt="Eight" title="Eight image" /></a>
+                <a href="img/full/15.jpg"><img src="img/thumbs/15.jpg" alt="Eight" title="Eight image" /></a>
+                <a href="img/full/16.jpg"><img src="img/thumbs/16.jpg" alt="Eight" title="Eight image" /></a>
+                <a href="img/full/17.jpg"><img src="img/thumbs/17.jpg" alt="Eight" title="Eight image" /></a>
+                <a href="img/full/18.jpg"><img src="img/thumbs/18.jpg" alt="Eight" title="Eight image" /></a>
+                <a href="img/full/19.jpg"><img src="img/thumbs/19.jpg" alt="Eight" title="Eight image" /></a>
+                <a href="img/full/20.jpg"><img src="img/thumbs/20.jpg" alt="Eight" title="Eight image" /></a>
+                
+               
+		</div>
