@@ -1,0 +1,26 @@
+body {
+    background-color:blue;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 48 px;
+}
+
+p {
+color:red;
+font-weight:bold;
+font-size:20px;
+}
+
+.two {
+color:orange;
+}
+
+a{ 
+    color:red;
+    text-decoration:none;
+}
+
+
+.divone { background-color:pink;
+}
+
+.divtwo {background-color:purple;}

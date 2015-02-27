@@ -1,0 +1,48 @@
+body {
+    margin:0;
+    font-size:30px;
+    color: #fff;
+    font-family:arial,helvetica,sans-serif;
+
+}
+
+.outer-wrapper {
+    background: #f00;
+    padding: 30px;
+    width:960px;
+    margin:100px auto 0 auto;
+}
+.wrapper {
+    width:960px;
+    margin: 100 px auto 0 auto;
+    background: #ff0;
+position:relative;}
+
+.box {
+    width:280px;
+    height:280px ;
+    background: #000;
+    padding: 10px;
+    margin-top: 100 px;
+    position:relative;
+    bottom:0 ;
+    left:0;
+}
+    /*margin - adds white space extra...
+    margin applies to outside of object
+    Padding applies inside the box... stupid it adds to total width. 
+  Static element, absolute, relative, 
+  
+  fixed - on page at that spot  - Chrome vs. other browsers fixed in found of flow... but others, on the left
+  
+  flow of document: down
+  POSITION FIXED = ACCORDING TO THE WINDOW NOT THE DOCUMENT/rips it out of the flow of the doc - always pinned
+  STATIC = TOP AND LEFT IS IGNORED*
+  ABSOLUTE: rips it out of the flow of the doc 
+  RELATIVE: keeps it in the flow of the document
+  
+  fixed (fron the window)and absolute (from the document)
+  
+  
+    
+  
