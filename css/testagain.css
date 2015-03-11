@@ -1,0 +1,121 @@
+
+
+/*jasmine hong--------------------------------------------------------------------*/ 
+     .jasminehonginfo{
+         opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:700px;
+         top:200px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+     }
+     
+     .jasminehong{
+         position:relative;
+         top:600px;
+         left:900px;
+         text-decoration:none;
+         color:black;
+         font-family:helvetica;
+         font-size:12px;
+     }
+     
+     .jasminehong:hover + .jasminehonginfo{
+         opacity: 1.0;
+     }
+     
+     
+/*lika-------------------------------------------------------------------------------------*/
+     .likainfo{
+         color:black;
+         opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:700px;
+         top:200px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+     }
+     
+     .lika{
+      position:absolute;
+      top:400px;
+      left:700px;
+     }
+     
+     .lika img{
+      width:90%;
+     }
+     
+     .lika:hover + .likainfo{
+         opacity: 0.9;
+     }
+     
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+/*jasmine zhang--------------------------------------------------------------------*/
+    .jasminezhanginfo{
+     color:black;
+         opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:700px;
+         top:200px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+    }
+    
+    .jasminezhang{
+          text-decoration:none;
+          position:relative;
+          top:300px;
+          color:black;
+          font-family:courier;
+          font-size:12px;
+    }
+    
+    
+   .jasminezhang:hover+ jasminezhanginfo{
+         opacity: 1.0;
+   }
+     
+     
+     
+     

@@ -1,0 +1,73 @@
+body{
+    font-size:0;
+    /*leading etc*/
+}
+
+.word-wrapper{
+    display:inline-block;
+    margin:80px;
+}
+    
+.aa {
+    width:660px;
+    /*when inspect element, what the width is*/
+}
+
+.letter{
+    /*background:#ff0;*/
+    width:300px;
+    height:400px
+    position:relative;
+}
+
+.bar {
+    background:#000;
+    border-radius:50px;
+    position:absolute;
+}
+ 
+
+.circle {
+    background:#ff0;
+    width:200px;
+    height:200px;
+    display:inline-block;
+    border-radius:100px;
+    position:fixed;
+    top:50px;
+    right:100px;
+}
+
+   
+    
+.horizontal {
+    height:50px;
+    width:300px;
+}
+    
+    
+.vertical {
+    width:50px;
+    height:400px;
+}
+
+
+.a-top{
+    top:0;
+    left:0;
+}
+
+.a-right{
+    right:0;
+}
+
+.a-mid{
+    left:0;
+    top:175px;
+}
+    /*static
+    fixed
+    absolute 
+    relative/
+}
+
