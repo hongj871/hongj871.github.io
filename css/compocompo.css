@@ -1,0 +1,642 @@
+      
+body{
+    bacgkround-color:white;
+}
+
+/*kyle brady--------------------------------------------------------------------*/
+    .kyleinfo{
+      opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 400ms ease-in-out;
+         transition: all 400ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+    }
+    
+    .kyle{
+          text-decoration:none;
+          position:absolute;
+          top:60px;
+          left:30px;
+          color:black;
+          font-family:arial,helvetica,sans-serif;
+          font-size:10px;
+          width: 800px;
+    }
+    
+    /*div.kyle{*/
+    /* display: block;*/
+    /*}*/
+    
+   .kyle:hover + .kyleinfo{
+         opacity: 1.0;
+         display: block;
+   }
+   
+          
+/*eva-------------------------------------------------------------------------------------*/
+     .evainfo{
+         color:black;
+         opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+     }
+     
+     .eva{
+      position:absolute;
+      top:170px;
+      left:200px;
+      text-decoration:none;
+      font-family:arial;
+      font-size:45px;
+      color:black;
+     }
+   
+     .eva:hover + .evainfo{
+         opacity: 1.0;
+     }
+
+
+   /*sara-------------------------------------------------------------------------------------*/
+     .sarainfo{
+         color:black;
+         opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+     }
+     
+     .sara{
+        color: black;
+        text-decoration:none;
+        font-size:15px;
+        font-family:Helvetica,Arial,sans-serif;
+        top:20px;
+    
+     }
+   
+     .sara:hover + .sarainfo{
+         opacity: 1.0;
+     }
+     
+ 
+ 
+ 
+/*megan-------------------------------------------------------------------------------------*/
+     .meganinfo{
+         color:black;
+         opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+     }
+     
+     .megan{
+      position:absolute;
+      top:100px;
+      left:100px;
+      text-decoration:none;
+      font-family:helvetica;
+      font-size:14px;
+      color:green;
+     }
+   
+     .megan:hover + .meganinfo{
+         opacity: 1.0;
+     }     
+     
+     
+
+
+
+/*jasmine hong--------------------------------------------------------------------*/
+     .jasminehonginfo{
+
+         opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 400ms ease-in-out;
+         transition: all 400ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+     }
+     
+     .jasminehong{
+         position:absolute;
+         top:660px;
+         left:1000px;
+         text-decoration:none;
+         color:black;
+         font-family:helvetica;
+         font-size:12px;
+     }
+     
+     .jasminehong:hover + .jasminehonginfo{
+         opacity: 1.0;
+         display: block;
+     }
+     
+
+/*urvita--------------------------------------------------------------------*/     
+      .urvitainfo{
+      opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+    }
+    
+    .urvita{
+          text-decoration:none;
+          position:absolute;
+          top:190px;
+          left:90px;
+          color:black;
+    }
+    
+    .urvita img{
+         width:45%;
+    }
+    
+    .urvita:hover + .urvitainfo{
+         opacity: 1.0;
+   }   
+
+
+         
+/*urvi--------------------------------------------------------------------*/     
+      .urviinfo{
+      opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+         
+    }
+    
+    .urvi{
+          text-decoration:none;
+          position:absolute;
+          top:140px;
+          left:30px;
+          color:black;
+          font-family:arial,helvetica,sans-serif;
+          font-size:10px;
+          width: 800px;
+    }
+    
+   .urvi:hover + .urviinfo{
+         opacity: 1.0;
+   }   
+
+/*simen--------------------------------------------------------------------*/     
+      .simeninfo{
+      opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+    }
+    
+    .simen{
+        position:absolute;
+          text-decoration:none;
+          top:130px;
+          left:300px;
+          color:black;
+          font-family:arial;
+          font-size:50px;
+    }
+    
+    .simen:hover + .simeninfo{
+         opacity: 1.0;
+   }   
+   
+   
+   
+  
+     
+/*jasmine zhang--------------------------------------------------------------------*/
+    .jasminezhanginfo{
+     color:black;
+         opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+    }
+    
+    .jasminezhang{
+          text-decoration:none;
+          position:absolute;
+          top:700px;
+          left:600px;
+          color:black;
+          font-family:courier;
+          font-style:lighter;
+          font-size:12px;
+    }
+    
+   .jasminezhang:hover+ .jasminezhanginfo{
+         opacity: 1.0;
+   }
+     
+     
+     
+/*lika-------------------------------------------------------------------------------------*/
+     .likainfo{
+         color:black;
+         opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+     }
+     
+     .lika{
+      position:absolute;
+      top:600px;
+      left:450px;
+      width:300px;
+     }
+    
+    .lika img{
+    width:60%;
+    }
+     .lika:hover + .likainfo{
+         opacity: 1.0;
+     }
+     
+
+          
+   /*lauren-------------------------------------------------------------------------------------*/
+     .laureninfo{
+         color:black;
+         opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+     }
+     
+     .lauren{
+      position:absolute;
+      width:90px;
+      left:40px;
+      top:400px;
+     }
+     
+     .lauren img{
+      width:70%;
+     }
+     .lauren:hover + .laureninfo{
+         opacity: 1.0;
+     }
+     
+     
+/*vivian-------------------------------------------------------------------------------------*/
+     .vivianinfo{
+         color:black;
+         opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+     }
+     
+     .vivian{
+      position:absolute;
+      top:500px;
+      left:200px;
+     }
+    
+    .vivian img{
+      width:80%;
+    }
+     .vivian:hover + .vivianinfo{
+         opacity: 1.0;
+     }
+
+
+     
+     
+/*conny-------------------------------------------------------------------------------------*/
+     .connyinfo{
+         color:black;
+         opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+     }
+     
+     .conny{
+    position:absolute;
+    color: black;
+    text-decoration:none;
+    font-size:14px;
+    font-family:Helvetica,Arial,sans-serif;
+    width:500px;
+   left:1100px;
+    top:630px;
+     }
+   
+     .conny:hover + .connyinfo{
+         opacity: 1.0;
+     }
+     
+     
+     
+     
+     
+/*herin-------------------------------------------------------------------------------------*/
+     .herininfo{
+         color:black;
+         opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+     }
+     
+     .herin{
+    position:absolute;
+    left:190px;
+    top:300px;
+    width:130px;
+     }
+     
+     .herin img{
+    width:90%;
+     }
+   
+     .herin:hover + .herininfo{
+         opacity: 1.0;
+     }
+     
+/*kamila-------------------------------------------------------------------------------------*/
+     .kamilainfo{
+         color:black;
+         opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+     }
+     
+     .kamila{
+    position:absolute;
+    width:140px;
+    top:400px;
+    left:400px;
+     }
+     
+     .kamila img{
+    width:86%;
+         
+     }
+   
+     .kamila:hover + .kamilainfo{
+         opacity: 1.0;
+     }
+     
+/*theresa-------------------------------------------------------------------------------------*/
+     .theresainfo{
+         color:black;
+         opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+     }
+     
+     .theresa:hover + .theresainfo{
+         opacity: 1.0;
+     }
+     
+.theresa{
+    position:absolute;
+     width: 0;
+	height: 0;
+	border-top: 20px solid black;
+	border-left: 20px solid transparent;
+	float:left;
+	top:380px;
+	left:350px;
+    
+}
+
+	
+/*zhiyan-------------------------------------------------------------------------------------*/
+     .zhiyaninfo{
+         color:black;
+         opacity: 0.0;
+         -webkit-transition: all 500ms ease-in-out;
+         -moz-transition: all 500ms ease-in-out;
+         -ms-transition: all 500ms ease-in-out;
+         -o-transition: all 500ms ease-in-out;
+         transition: all 500ms ease-in-out;
+         position:absolute;
+         left:900px;
+         top:300px;
+         width:300px;
+         text-align:center;
+         
+         font-size:12px;
+         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+         font-style:oblique;
+         font-weight: 300;
+     }
+     
+     .zhiyan{
+    position:absolute;
+    left:100px;
+    top:280px;
+    font-size:30px;
+    text-decoration:none;
+    color:black;
+     }
+   
+     .zhiyan:hover + .zhiyaninfo{
+         opacity: 1.0;
+     }
+     
+     
+     
