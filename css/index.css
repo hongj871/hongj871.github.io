@@ -1,0 +1,19 @@
+
+body {
+    background-image: url("ciao.png");
+    background-color: cover;
+}
+ 
+ 
+ 
+ 
+ .body{
+ font-size:12px;
+ font-family:helvetica;
+ color:grey;
+ text-decoration:none;
+ line-height:1.3;
+ margin-left:100px;
+ margin-top:300px;
+}
+

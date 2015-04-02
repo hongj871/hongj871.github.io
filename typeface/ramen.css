@@ -1,0 +1,31 @@
+body{
+    background-color:red;
+}
+
+.container{
+    display:inline;
+}
+    .ycircle{
+        width:20px;
+        height:20px;
+        border-radius:50px;
+        line-height:20px;
+        background:#FFFF00;
+        
+    }
+     .wcircle{
+        width:20px;
+        height:20px;
+        border-radius:50px;
+        line-height:20px;
+        background:white;
+        z-index:3px;
+        position:relative;
+        top:-10px;
+    }
+    
+.container2{
+   position:relative;
+   top:-20px;
+}
+    

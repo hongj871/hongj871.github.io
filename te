@@ -1,0 +1,23 @@
+<html>
+<body>
+
+for (var x = 1; x < 20; x++) {
+	console.log(x*1);
+	var y = "#######";
+	for (var x = 0; x < 101; x++) {
+		y = y + "$$$" + "^^" + "======" + "^^" + "$$$" + x;
+		console.log(y);
+	}
+}
+
+if (x < 10) {
+    y = "Good numbers";
+} else if (x < 81) {
+    y = "I will never be an accountant";
+} else {
+    y = "Numbers and $$ are the death of me";
+}
+
+</body>
+
+</html>
