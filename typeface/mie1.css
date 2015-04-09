@@ -1,0 +1,135 @@
+body{
+    background-color:red;
+}
+
+
+/*LETTER A*/
+/**/
+.letter-wrapper{
+    position:relative;
+}
+
+
+.letterh, .lettera, .lettern, .letterb{
+    position:relative;
+    float:left;
+}
+
+.lettera{
+   margin-left:90px;
+   margin-top:100px;
+}
+
+.letterh{
+    margin-left:240px;
+    margin-top:100px;
+}
+
+.lettern{
+    margin-left:300px;
+    margin-top:100px;
+}
+ 
+.letterb {
+    margin-left:90px;
+    margin-top:100px;
+    
+
+}
+.horizontal{
+    position:absolute;
+    width: 190px;
+    height:40px;
+    z-index:4;
+}
+
+.top {
+    top: -7;
+    left:24px; 
+}
+
+
+.nh1, .nh2, .nh3, .nh4{
+    background:url("mieshort.png");
+    width:190px;
+    height:20px;
+    float:left;
+}
+
+.nh1{
+    z-index:-1px;
+}
+
+.nh2, .nh3, .nh4{
+    z-index:1px;
+    margin-top:-8px;
+    border-radius: 400px;
+}
+
+.middle {
+    top:140px;
+    left:2px;
+}
+
+.bottom {
+    top:240px;
+    left:2px;
+}
+
+/**/
+.vertical{
+    position:absolute;
+    display:inline-block;
+    transform: rotate(7deg);
+    width:100px;
+    height:300px;
+}
+
+
+
+/*.diagonal {*/
+/*    top: -7;*/
+/*    left:24px;*/
+/*    transform: rotate(7deg);*/
+/*}*/
+
+
+.nv1{
+    width:18px;
+    height:300px;
+    background: transparent url("mieshortleft.png") round 0 0;
+    float:left;
+}
+
+
+.nv2{
+    width:18px;
+    height:300px;
+    background: transparent url("mieshortleft.png") round 0 0;
+    float:left;
+    margin-left:-6px;
+    z-index:1px;
+}
+
+.nv3{
+    width:18px;
+    height:300px;
+    background: transparent url("mieshortleft.png") round 0 0;
+    float:left;
+    margin-left:-6px;
+    z-index:1px;
+}
+
+.left{
+    top: 0;
+	left: 0;
+}
+
+.right{
+    top: 0;
+	left:170px;
+}
+
+
+
+

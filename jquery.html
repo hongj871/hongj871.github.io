@@ -1,0 +1,66 @@
+
+
+$(document).ready(function() {<br>
+
+	var clicked = false;<br>
+
+
+	$('#pirate').remove();<br>
+	$('body').addClass('gradient');<br>
+
+	$('#toggle').click(function(){<br>
+		if (!clicked){<br>
+			$('#status').html("GO").css("background-color","green");<br>
+			$('this').html("Stop");<br>
+			clicked = true;<br>
+		
+	} else {
+		$('#status').html("STOP").css("background-color","red");<br>
+			$("this").html("Start");<br>
+			clicked = false;<br>
+	}<br>
+		$('#status').mouseenter('#cat');<br>	
+
+	});	<br>
+
+
+});<br>
+
+$(document).ready(function() {<br>
+
+$("#pirate").remove();<br>
+$("body").addClass("gradient");<br>
+
+var clicked=false;<br>
+$("#toggle").click(function(){<br>
+	if (clicked == false){<br>
+		$("#status").html("GO").css("background-color","green"); <br>
+		$("#toggle").html("Stop"); <br>
+		clicked=true;}<br>
+else {
+	$("#status").html("STOP").css("background-color","red");<br>
+	$("#toggle").html("Start");<br>
+clicked=false;<br>
+}<br>
+});<br>
+
+$("#status").mouseenter(function(){<br>
+if (clicked==true){<br>
+	$("#cat").show();<br>
+} <br>
+});<br>
+
+$("#status").mouseleave(function(){<br>
+if (clicked==true){<br>
+	$("#cat").hide();<br>
+	clicked=true;<br>
+} <br>
+});<br>
+
+});<br>
+
+
+
+
+
+

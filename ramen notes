@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("#box").mouseover(function(){
+        $("#box").animate({height: "600px"});
+    });
+ $("#box").mouseover(function(){
+        $("#box").animate({height: "100px"});
+    });
+
+});
+</script>
+</head>
+<body>
+
+
+
+<div id="box" style="height:0;width3%; padding-bottom: 3%;
+    -moz-border-radius: 50%; 
+    -webkit-border-radius: 50%; 
+    border-radius: 50%;
+    background: yellow; "></div>
+
+</body>
+</html>
+
+   
+ 

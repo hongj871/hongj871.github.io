@@ -1,0 +1,574 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+       <link rel="stylesheet" type="text/css" href="new_alphabet.css">
+       
+        
+    </head>
+<body>
+    <div class="1">
+        <div class="oneramen">
+           
+            <div class="horizontal">
+                <div class="c1 red"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                
+             </div>
+       
+             <div class="horizontal">
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+          
+             </div>
+
+            <div class="horizontal">
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+             </div>
+       
+             <div class="horizontal">
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+             </div>
+  
+            <div class="horizontal">
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+             </div>
+       
+             <div class="horizontal">
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+             
+             </div>
+             
+                <div class="horizontal">
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+             </div>
+             
+             <div class="horizontal">
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+             </div>
+             
+              <div class="horizontal">
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+             </div>
+             
+             
+            <div class="horizontal">
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 white"></div>
+            
+             </div>
+             
+          
+             
+            <div class="horizontal">
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                
+                
+             </div>
+             
+             
+             
+             
+            <div class="horizontal">
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                
+                
+             </div>
+             
+             
+             <div class="horizontal">
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                
+                
+               
+             </div>
+             
+             
+             <div class="horizontal">
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+               
+               
+             </div>
+             
+             
+             <div class="horizontal">
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                
+                
+             </div>
+             
+             <div class="horizontal">
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+               
+             </div>
+             
+             
+             <div class="horizontal">
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                
+             </div>
+             
+             
+             <div class="horizontal">
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+             </div>
+             
+             
+             <div class="horizontal">
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+             </div>
+           
+            <div class="horizontal">
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+             </div>
+             
+             
+             <div class="horizontal">
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+             </div>
+             
+             
+             <div class="horizontal">
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+             </div>
+             
+                <div class="horizontal">
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 yello"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+             </div>
+          
+          
+             <div class="horizontal">
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+             </div>
+             
+                <div class="horizontal">
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 red"></div>
+                <div class="c1 red"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+             </div>
+          
+             
+             
+             <div class="horizontal">
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 red"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+                <div class="c1 white"></div>
+             </div>
+             
+             
+             <div class="horizontal">
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+                <div class="c1 yellow"></div>
+             </div>
+             
+             
+
+</div>     
+    
+    
+            
+                   
+    
+<script src="new_alphabet.js"></script>
+</body>
+</html>
+
+   
+ 
