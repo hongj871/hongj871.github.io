@@ -1,0 +1,214 @@
+      
+body {
+	background-color: red;
+	margin: 0px;
+	height:5000px;
+  width:1900px;
+}
+
+.e, .o, .t{
+  position:relative;
+  display:inline-block;
+}
+
+      
+.circle{
+  display:inline-block;
+  position:relative;
+  width:40px;
+  height:40px;
+  border-radius:100%;
+  /*vertical-align: top;*/
+  background-color: white;
+  margin:0 0 0 0;
+  z-index:-2px;
+  padding-bottom: 10px;
+      -moz-border-radius: 50%; 
+      -webkit-border-radius: 50%; 
+}
+
+.yellow {
+  background-color: #F7F719;;
+}
+
+
+.horizontal, .middle, .bottom{
+  position:relative;
+  margin-left:50px;
+}
+
+.horizontal{
+  top:0;
+}
+
+.horizontalwhite, .one, .two{
+  float:left;
+  clear: both;
+}
+
+.middle{
+  margin-top:150px;
+}
+.bottom{
+  margin-top:180px;
+  position:1000px;
+  
+}
+
+
+.vertical{
+  position:absolute;
+  margin-left:50px;
+  width:140px;
+}
+
+/*.red{*/
+/*  background-color:red;*/
+/*}*/
+
+.top{
+  float:left;
+  margin-top:-35px;
+}
+
+
+.left1{
+  left:0px;
+}
+.left2{
+  left:-10px;
+}
+.left3{
+  left:-20px;
+}
+.left4{
+  left:-30px;
+}
+.left5{
+  left:-40px;
+}
+.left6{
+  left:-50px;
+}
+.left7{
+  left:-60px;
+}
+.left8{
+  left:-70px;
+}
+.left9{
+  left:-80px;
+}
+.left10{
+  left:-90px;
+}
+
+
+
+.one,.two{
+  position:relative;
+}
+
+.one{
+  width:180px;
+  margin-top:-370px;
+}
+
+.two{
+  width:180px;
+  margin-top:-160px;
+}
+
+.first{
+  top:0;
+}
+
+
+
+.right{
+  float:left;
+  margin-left:258px;
+}
+
+
+    
+
+    /*.horizontal:hover {*/
+      /*transform: scale(1.2);*/
+    /*  opacity:.2;*/
+    /*}*/
+      
+      
+  
+  
+  
+  
+
+        
+  .e{ 
+      float:left;
+      height:290px;
+      position:relative;
+  }
+  
+
+  .part1{
+    float:left;
+    margin-left:100px;
+    margin-top:3000px;
+    position:absolute;
+    display:none;
+  }
+  
+  
+  .part2{
+    float:right;
+    margin-left:500px;
+    margin-top:1000px;
+    position:relative;
+    display:none;
+  }
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /*.full{*/
+  /*    width:400px;*/
+  /*    float:left;*/
+  /*    position:relative;*/
+  /*    margin-left:100px;*/
+  /*    margin-top:500px;*/
+  /*}*/
+  
+  /*.full2{*/
+  /*    width:400px;*/
+  /*    float:left;*/
+  /*    position:relative;*/
+  /*    margin-left:500px;*/
+  /*    margin-top:200px;*/
+  /*}*/

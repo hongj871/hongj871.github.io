@@ -4,7 +4,7 @@
   /*          box-sizing: border-box;*/
   /*}*/
    
-       .c1{
+       .c1, .c2{
       width: 14px;
       height:0px;
       padding-bottom: 10px;
@@ -15,8 +15,8 @@
       position:relative;
       margin:0 0 0 0;
       z-index:-2px;
-    
       }
+      
     
     .horizontal{
       position:relative;
@@ -51,49 +51,161 @@
   body{
         background-color:red;
         height:5000px;
+        width:2000px;
         }
         
-  .one, .two, .three, .four, .five, .six { 
-      float:left;
-      height:290px;
-      position:relative;
-      /*display:inline-block;*/
-  }
-  
-  .one{
-      margin-left:10px;
-      width:142px;
-  }
-  
-  .two{ 
-      width:150px;
-  }
-  
-  .third{
-      margin-left:80px;
-      width:170px;
-  }
-  
+
   .full{
       width:400px;
       float:left;
       position:relative;
       margin-left:100px;
-      margin-top:700px;
+      margin-top:500px;
+      clear:both;
   }
   
   .full2{
-      width:400px;
+      width:500px;
       float:left;
       position:relative;
-      margin-left:500px;
+      margin-left:1000px;
       margin-top:200px;
+      clear:both;
   }
   
   
   .part1{
+    display:none;
     float:left;
-    margin-left:100px;
-    margin-top:500px;
-    
+    margin-left:400px;
+    margin-top:1000px;
+    position:absolute;
+   
   }
+  
+  
+  .partlast{
+    display:none;
+    float:left;
+    margin-left:90px;
+    margin-top:1200px;
+    position:absolute;
+  }
+  
+  
+  
+
+  
+  .arnold, .po,.podone, .kirby, .part1, .part2, .pokemon, .hot, .open, .part2, .naruto,.pusheen,.slurp, .hamtaro,.dragonball,.eat{
+    display:none;
+    float:left;
+  }
+  
+  
+  .open{
+    margin-left:365px;
+    margin-top:500px;
+ }
+  
+  .hot{
+    margin-left:365px;
+    margin-top:600px;
+    width:330px;
+  }
+  .eat{
+    margin-left:755px;
+    margin-top:620px;
+    width:400px;
+  }
+  
+    .part2{
+    float:left;
+    margin-left:-10px;
+    margin-top:300px;
+    width:370px;
+    position:relative;
+  }
+  
+  
+  
+ 
+ 
+
+
+
+
+.video{
+  display:none;
+}
+
+
+.hamtaro{
+  margin-left:30px;
+  margin-top:100px;
+  width:300px;
+  
+}
+
+.pusheen{
+  width: 200px;
+  float:left;
+  margin-top:300px;
+}
+
+ 
+ 
+ .naruto{
+
+  margin-left:1px;
+  float:left;
+  margin-top:500px;
+ }
+ 
+ 
+ .kirby{
+  margin-right:600px;
+  float:left;
+  margin-top:-400px;
+ }
+ 
+ .dragonball{
+  width: 200px;
+  margin-left:1px;
+  float:left;
+  margin-top:300px;
+ }
+  
+
+.pokemon{
+  width: 400px;
+  margin-left:1px;
+  float:left;
+  margin-top:780px;
+}
+
+.slurp{
+  width: 300px;
+  margin-right:300px;
+  float:left;
+  margin-top:-600px;
+  
+}
+
+
+.arnold{
+   width: 300px;
+  margin-right:300px;
+  float:left;
+  margin-top:-300px;
+  
+}
+
+
+.po{
+ 
+  float:left;
+  margin-top:180px;
+  padding-bottom:450px;
+  margin-left:300px;
+  
+}
