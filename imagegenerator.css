@@ -1,0 +1,42 @@
+
+.lyric-holder,.lyric-holder1,.lyric-holder2 {
+    font-size: 30;
+    font-family: Arial, sans-serif;
+    position: absolute;
+    z-index: 50;
+    color: black;
+    left: 50px;
+    /*transition: */
+    /*-webkit-transition: opacity 0.2s ease-in-out;*/
+    /*-moz-transition: opacity 0.2s ease-in-out;*/
+    /*opacity: 0.9;*/
+}
+
+.lyric-holder{ 
+    top:50px;
+    opacity:0.3;
+    
+}
+
+.lyric-holder1{
+    top:90px;
+   
+}
+
+.lyric-holder2{
+    top:130px;
+   
+}
+
+
+.go-button {  
+    color: grey;
+    text-align: center;
+    z-index: 100;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 19px;
+    position: absolute;
+    top: 19px;
+    left: 50px;
+    
+}
