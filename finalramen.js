@@ -33,7 +33,6 @@ $('.circle').click(function() {
     
 
    document.getElementById("test").play();
-   
 });
 
 

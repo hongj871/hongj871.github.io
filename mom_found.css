@@ -1,0 +1,99 @@
+.mom_final{
+    margin-top:560px;
+    margin-left:800px;
+    position:relative;
+    float:left;
+}
+
+.all{
+    float:left;
+    position:absolute;
+    top:-30px;
+    width:1700px;
+    clear:both;
+}
+.end_statement{
+    position:absolute;
+    float:left;
+    left:500px;
+    top:400px;
+    
+    font-family:arial;
+    
+    color:black;
+    /*font-weight:bold;*/
+    font-size:20px;
+    text-decoration:none;
+}
+
+.another_story{
+    float:left;
+    left:500px;
+    top:600px;
+    position:absolute;
+    float:left;
+    font-style:italic;
+    
+    
+    font-family:arial;
+    
+    color:black;
+    /*font-weight:bold;*/
+    font-size:20px;
+    text-decoration:none;
+    
+}
+
+.home{
+     float:left;
+    left:900px;
+    top:600px;
+    position:absolute;
+    float:left;
+    font-style:italic;
+    
+    
+    font-family:arial;
+    
+    color:black;
+    /*font-weight:bold;*/
+    font-size:20px;
+    text-decoration:none;
+}
+
+
+
+.another_story:hover, .home:hover{
+    font-weight:bold;
+    color:black;
+    
+}
+
+.intro_statement{
+   position:absolute;
+    float:left;
+    left:500px;
+    top:470px;
+    
+    font-family:arial;
+    
+    color:black;
+    /*font-weight:bold;*/
+    font-size:20px;
+    text-decoration:none;
+}
+
+.unclequestion{
+       position:absolute;
+    float:left;
+    left:500px;
+    top:545px;
+    
+    font-family:arial;
+    
+    color:black;
+    /*font-weight:bold;*/
+    font-size:20px;
+    text-decoration:none;
+}
+

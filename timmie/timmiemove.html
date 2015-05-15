@@ -1,0 +1,43 @@
+<!doctype html>
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+            <style>
+            
+                #container{
+                    height:400px;
+                    width:600px;
+                    position:relative;
+                }
+                #timmie{
+                    position:absolute;
+                    height:50px;
+                    width:50px;
+                    background-color:red;
+                    }
+                    
+            </style>
+    </head>
+
+        <body> 
+            <div id="container">
+                <div id="timmie"></div>
+            </div>
+                <script>
+
+                    var timmie=document.getElementbyId('timmie);
+                    
+                    vartimmieLeft=0;
+                    
+                    function anim(e){
+                        if(e.keyCode==39){
+                            timmieLeft +=2;
+                            timmie.style.left = timmieLeft +'px';
+                        }
+                    }
+                    
+                    document.onkeydown = anim;
+                </script>
+        </body>
+</html>

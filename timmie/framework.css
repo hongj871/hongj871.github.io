@@ -1,0 +1,31 @@
+.button_no, .button_yes{
+    text-decoration:none;
+    color:black;
+    font-weight:bold;
+
+}
+
+.button_no:hover, .button_yes:hover, .button_no:link, .button_yes:link,
+.button_no:visited, .button_yes:visited,.button_no:active, 
+.button_yes:active  { 
+    color:black;
+}
+
+body{
+    font-family: arial, helvetica, sans-serif;
+    font-size: 20px;
+    color:black;
+}
+
+.timmie{
+    position:absolute;
+    width:363px;
+    height:465px;
+    top:550px;
+    left: 700px;
+    float:left;
+}
+
+.timmie img{
+    width:70%;
+}

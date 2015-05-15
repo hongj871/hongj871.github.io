@@ -1,0 +1,14 @@
+logic
+-  39 == right keyDown
+when 39 is keyDown, position of 'timmie' moves from range (x = 0 to 2000);
+
+
+array text= string of text
+array image = string of images
+
+create a counter to select image at random.
+when image is selected at random from the array, the image scrolling from right to left until x = 100,
+reaching timmie. When image is = 100, text appears with it at x=100; y=0; (css)
+
+speed
+

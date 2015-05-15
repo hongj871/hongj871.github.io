@@ -1,0 +1,172 @@
+//NOTE: EVERYTHING SHOULD BE CONSIDERED // 
+Look at Timmie go!
+
+Title
+-----------
+- Timmie Thumb and the Dark Forest
+
+Story
+- The Dark Forest lurks with friends and foes, thieves and martians...tames 
+the monkeys and whispers to sapplings, raging its arms in swirls. 
+Mom and Timmie were strolling in the Dark Forest to spend quality time. 
+Enchanted by the pink worms in the loops of ground, Timmie sees his mom disappear, 
+swallowed by the dark night.
+
+
+
+
+Objective 
+-----------
+Timmie needs to find his mom before the forest rests to black.
+Help Timmie find his mom! 
+
+
+
+
+Timmie Events
+-----------
+
+// booleans //
+
+1) You encounter a fuzzy pink bear. He smells like warm pretzels. 
+He waves at you and smiles with his pearly white grin. Want to play with Mr. Fuzzles?
+   
+    true: death //
+        Mr. Fuzzles lifts his fuzzy hands for a warm embrace.
+        He pats Timmie's back and remember mom's hug. 
+        Your feel a sting on your neck. Mr. Fuzzle's warm pretzel smell whiffs away. 
+        By the hug of the bloodsucking vampire teddy bear, Timmie dies.
+    false: live //
+    
+
+2) "WOOOSSSSHHH" What was that?! .... You see a bush.
+Want to hide? Quick!
+    true: death //
+    You hide in the bush until the "woosh" moves north. The leaves rustle
+    against the wind. They gently clap to the beating of the dark forest.
+    Frightened and still, you notice red berries and eat them. It turns out the
+    poisonous Ackaberries poked you like nails, inside out.
+    
+    Timmie dies.
+    
+    false: live //  
+    Nothing to be afraid of, but it is getting dark. Go find mom! 
+
+
+3) You encounter a well. It looks deep. What's in there, Timmie? 
+Do you want to find out?
+    true: live // 
+    Woops! Timmie slips and falls into the well. Zooming down, he gently lands
+    on multicolored quinoa soil. Lying on his back, he strokes his arms up and down,
+    drawing an angel. 
+
+    "Where do I go from here?" Timmie asks as he looks up at the cobbly well 
+    with the last star sitting in the sky. 
+    
+4) Do you want to put the doll down?
+
+    
+    
+    
+    
+
+
+
+// Passing // 
+-----------
+
+You encounter a bobbling biscuit head. 
+Astonished, you stop to stare at this trickery. 
+
+    true: live // 
+    You move closer to mock the bobbling biscuit head. Click, clack, crack!  
+    Mimicking the thing, you sprain your neck. You are unable to carry on. 
+    Timmie dies.
+
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+
+
+You encounter giggling octoweed. With its suction cup membranes, it sways
+ and dances. Want to tickle the octo-weed? 
+    
+    true: live // 
+    The octo-weed tickles you back.
+    You're not scared to continue your search!
+    
+
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+
+You encounter a pillow of dandellions. Soft and silky, you feel a bit drowsy.
+Want to take a short nap? 
+     true: live // 
+     You gently collapse on the pillow of dandellions. Dandellion weeds
+     float up into the air. Achoo! Achoo!
+     You can't stop sneezing.
+     
+     Get up and continue finding mom! It's getting late!
+
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+
+Timmie encounters a coughing snake. He doesn't stop coughing!
+You think he's choking. Help him!
+
+Timmie uses the snake as a jump rope. Cough cough. 
+    true: live // 
+    false: live //
+
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+
+You encounter an old slug. Your mom taught you to be respectful.
+You wait for him to pass you before you proceed.
+
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+
+You almost slipped on mud! Walk slowly.
+
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+
+You step on kryptonite thorns! Look out for those ahead! 
+
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+
+Thump Thump Thump
+Fee Fi Fo Thumb. 
+
+Good thing BIG didn't step on you! 
+
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+
+You notice a golden peach fall from the sky, dying the twigs it landed 
+on to gold.
+
+
+Transition of pictures.
+- Brrr it's cold. 
+- The moon hides.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fly
+
+Fall from sky 
+
+Come from ground
+
+
+You encounter Plums that dye you a color
+
+
+
+he head butts/ licks a goat
+
+keeps calm 

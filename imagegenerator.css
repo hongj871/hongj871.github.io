@@ -15,17 +15,26 @@
 .lyric-holder{ 
     top:50px;
     opacity:0.3;
-    
 }
 
 .lyric-holder1{
     top:90px;
-   
 }
 
 .lyric-holder2{
     top:130px;
-   
+}
+
+.lyric-holder3{
+    top:170px;
+}
+
+.lyric-holder4{
+    top:210px;
+}
+
+.lyric-holder5{
+    top:250px;
 }
 
 
@@ -38,5 +47,4 @@
     position: absolute;
     top: 19px;
     left: 50px;
-    
 }

@@ -1,0 +1,50 @@
+body, event_text{
+    font-size:23px;
+    font-family:helvetica,arial, sans-serif;
+    color: black;
+}
+
+
+.title,.story,.objective{
+    font-size:23px;
+    font-family:helvetica,arial, sans-serif;
+    display:none;
+    color:black;
+    position:absolute;
+    left: 500px;
+}
+
+
+.title-container, .story-container, .objective-container{
+    position: relative;
+    /*display:inline-block;*/
+}
+
+.title-container{
+    top:800px;
+}
+
+.story-container{
+    width:500px;
+    height:5px;
+    padding:300px;
+    top:300px;
+}
+
+#timmie{
+    position: absolute;
+    top:700px;
+    left:0;
+}
+
+.event_text_holder{
+    position:absolute;
+    top:600px;
+    width:300px;
+    padding:10px;
+}
+
+.event_image_holder{
+    position:relative;
+    top:500px;
+}

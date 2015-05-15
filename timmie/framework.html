@@ -1,0 +1,45 @@
+<html>
+	
+	<head>
+		 <link rel="stylesheet" type="text/css" href="framework.css">
+	</head>
+
+	<body>
+		<a class="story-button" href="#">Button</a>
+
+		<div class="scene">
+			<div class="timmie">
+				<img src="timmie.png" alt="timmie"> 
+			</div>
+
+			<div class="event">
+			</div>
+		</div>
+
+		<div class="dialogue">
+			some text to explain whats happening
+			
+			<div class="actions">
+				<a class="button_yes" href="#">Yes</a>
+				<a class="button_no" href="#">No</a>
+			</div>
+		</div>
+
+	</body>
+</html>
+
+
+.graveyard {
+	background: url('grave.jpg') no-repea;
+}
+
+
+$('.story-button').click(function() {
+	// things happen
+	change_scene();
+});
+
+
+function change_scene() {
+	$('.scene').addClass('graveyard');
+}
