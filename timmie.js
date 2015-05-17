@@ -22,10 +22,10 @@ var event_options = [
                     'yesno',
                     'yesno',
                     'yesno',
-                    // 'ok',
-                    // 'ok',
-                    // 'sure',
-                    // 'sure'
+                    'ok',
+                    'ok',
+                    'sure',
+                    'sure'
                     
                 
                     ];
@@ -36,10 +36,10 @@ var event_text = [
                  'WOOOSSSSHHH What was that? ...<br> You see a bush. Wanna hide? Quick!',
                  'You encounter a fuzzy pink bear. He smells like warm pretzels. <br>He waves at you and smiles with his pearly white grin. <br>Wanna play with Mr. Fuzzles?',
                  'You bump into Madame Kertas. She directs her right hand <br> towards you. Wanna shake her hand?',
-                //  'You encounter a bobbling biscuit head. Astonished, you stop <br> to stare at this trickery.',
-                //  'Look, it\'s Mr. Worm. Bow as a sign of respect.',
-                //  'You encounter an old slug. Your mom taught you to be respectful. You wait for him to pass you before you proceed.', 
-                // 'You encounter a coughing snake. He doesn\'t stop coughing! <br> You think he\'s choking. Help him!',
+                 'You encounter a bobbling biscuit head. Astonished, you stop <br> to stare at this trickery.',
+                 'Look, it\'s Mr. Worm. Bow as a sign of respect.',
+                 'You encounter an old slug. Your mom taught you to be respectful. You wait for him to pass you before you proceed.', 
+                'You encounter a coughing snake. He doesn\'t stop coughing! <br> You think he\'s choking. Help him!',
                 
                 //  'Stars gallop and frolick around you!',
                 //  'You step on kryptonite thorns!',
@@ -58,10 +58,10 @@ var event_image = [
                 '<img src="images/bush.png">',
                 '<img src="images/ted.png">',
                 '<img src="images/paper.png">',
-                // '<img src="images/bobble_head.png">',
-                // '<img src="images/worm.png">',
-                // '<img src="images/slug.png">',
-                //  '<img src="images/snake.png">'
+                '<img src="images/bobble_head.png">',
+                '<img src="images/worm.png">',
+                '<img src="images/slug.png">',
+                 '<img src="images/snake.png">'
                   ];
 
 
@@ -71,10 +71,10 @@ var event_text_yes = [
                 'You hide in the bush until the "woosh" moves north. <br>The leaves rustle against the wind. They gently clap to the beating<br> of the dark forest. Frightened and still, you notice red berries and eat them. These poisonous Ackaberries poked you like nails, inside out.',
                 'Mr. Fuzzles lifts his fuzzy hands for a warm embrace.<br>He pats Timmie\'s back and remember mom\'s hug. You feel<br> a sting on your neck. Mr. Fuzzle\'s warm pretzel smell whiffs away.<br>By the hug of the bloodsucking vampire teddy bear, Timmie dies.',
                 'Ouch! Mrs. Kertas accidentally gave you a papercut.', 
-                // '',
-                // '',
-                // '',
-                // ''
+                '',
+                '',
+                '',
+                ''
    // 'You gently collapse on the pillow of dandellions. Dandellion weeds float up into the air. Achoo! Achoo! You can\'t stop sneezing.',
     ];
     
@@ -85,10 +85,10 @@ var event_text_no = [
                 'Nothing to be afraid of, but it is getting dark. Go find mom!',
                 'See ya later Mr. Fuzzles!',
                 'That was impolite. Whatever... Look for mom!',
-                // '',
-                // '',    
-                // '',
-                // ''
+                '',
+                '',    
+                '',
+                ''
                 
                 ];
         
@@ -98,10 +98,10 @@ var event_text_ok = [
                 '',
                 '',
                 '',
-                // 'You move closer to mock the bobbling biscuit head. <br> <em> Click, clack, crack! </em> Mimicking the thing, you sprain your neck. <br>Hang on Timmie! Everything will be ok once you find Mom!',
-                // 'Sayonara Mr. Worm!',
-                // '',
-                // ''
+                'You move closer to mock the bobbling biscuit head. <br> <em> Click, clack, crack! </em> Mimicking the thing, you sprain your neck. <br>Hang on Timmie! Everything will be ok once you find Mom!',
+                'Sayonara Mr. Worm!',
+                '',
+                ''
                 
      // 'Look out for those ahead!',
     // 'Wow! Look at them prance!',
@@ -116,10 +116,10 @@ var event_text_sure = [
     '',
     '',
     '',
-    // '',
-    // '',
-    // 'Mom would be so proud! <br>Oh mom! Where are you?! I need you...',
-    // 'Timmie uses the snake as a jump rope. Cough cough. <br>His dinner spits out. The snake thanks you and wishes you <br> luck and eternal life.'
+    '',
+    '',
+    'Mom would be so proud! <br>Oh mom! Where are you?! I need you...',
+    'Timmie uses the snake as a jump rope. Cough cough. <br>His dinner spits out. The snake thanks you and wishes you <br> luck and eternal life.'
     
     ];
 
